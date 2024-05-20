@@ -1,0 +1,18 @@
+Following are the methods:
+
+1.sortAscending:
+	This accept array of integar and sort it in ascending.
+	Use of this in main class:
+		As it is static method you can call it by its class only but you after apply this method on array while print you must use Arrays.toString() this method and inparameters of this you should pass array on which sortAscending method has been called.
+2.calculateStats:
+	This method takes an array of integers as input and returns an array of doubles containing the maximum value at index 0, the minimum value at index 1, and the average at index 2.
+	Use of this method in main class:
+		IT is also a static method you can call it by its class and in main you just have to pass an array in it parameters and save its returning value in array of double.
+3.matrixMultiplication:
+	This method takes two 2D integer arrays representing matrices, along with the number of rows and columns for each matrix.This method calculates the product of the input matrices using matrix multiplication principles and returns the resulting matrix as a 2D array.
+	Use of this method in main class:
+	IT is also a static method you can call it by its class and in main you just have to called it and save it in an int array then print/use that array according to your Need.
+		
+
+
+	Thank You.
