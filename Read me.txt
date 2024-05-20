@@ -14,5 +14,5 @@ Following are the methods:
 	IT is also a static method you can call it by its class and in main you just have to called it and save it in an int array then print/use that array according to your Need.
 		
 
-
+//tried
 	Thank You.
